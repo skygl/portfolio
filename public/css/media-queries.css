@@ -62,7 +62,7 @@
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
-   /* Testimonials Section
+   /* Activity Section
    ------------------------------------------------------------------- */
    #testimonials .header-col h1:before {
       font-size: 66px;
@@ -258,7 +258,7 @@
    .popup-modal {	max-width: 85%; }
 
 
-   /* Testimonials Section
+   /* Activity Section
    ----------------------------------------------------------------------- */
    #testimonials .text-container { text-align: center; }
    #testimonials h1 {

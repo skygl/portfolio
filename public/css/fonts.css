@@ -137,7 +137,50 @@
     font-weight: normal;
     font-style: normal;
 }
-
+@font-face {
+    font-family: 'IBMPlexSansKR-Bold';
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Bold.eot');
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Bold.woff2') format('woff2'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Bold.woff') format('woff'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Bold.ttf') format('truetype');
+    url('fonts/ibmplexsans/IBMPlexSansKR-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBMPlexSansKR-Light';
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Light.eot');
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Light.eot?#iefix') format('embedded-opentype'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Light.woff2') format('woff2'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Light.woff') format('woff'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Light.ttf') format('truetype');
+    url('fonts/ibmplexsans/IBMPlexSansKR-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBMPlexSansKR-Medium';
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Medium.eot');
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Medium.eot?#iefix') format('embedded-opentype'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Medium.woff2') format('woff2'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Medium.woff') format('woff'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Medium.ttf') format('truetype');
+    url('fonts/ibmplexsans/IBMPlexSansKR-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBMPlexSansKR-Regular';
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Regular.eot');
+    src: url('fonts/ibmplexsans/IBMPlexSansKR-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Regular.woff2') format('woff2'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Regular.woff') format('woff'),
+    url('fonts/ibmplexsans/IBMPlexSansKR-Regular.ttf') format('truetype');
+    url('fonts/ibmplexsans/IBMPlexSansKR-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /*
  * FIXED for Font-Face Chrome Rendering
