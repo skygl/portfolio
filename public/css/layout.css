@@ -761,12 +761,16 @@ ul#nav li.current a {
 }
 
 .portfolio-item .portfolio-item-meta {
-    padding: 18px
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
 }
 
 .portfolio-item .portfolio-item-meta h5 {
     font: 14px/21px 'opensans-bold', sans-serif;
     color: #fff;
+    margin-bottom: 10px;
 }
 
 .portfolio-item .portfolio-item-meta p {
@@ -786,6 +790,10 @@ ul#nav li.current a {
     opacity: 1;
     -moz-opacity: 1;
     filter: alpha(opacity=100);
+}
+
+#portfolio-wrapper .swiper-container .swiper-pagination-bullets{
+    bottom: 0;
 }
 
 /* popup modal */
